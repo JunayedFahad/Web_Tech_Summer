@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <tittle>
+       Junayed Fahad
+    </tittle>
+</head>
+<h1>
+    Junayed Fahad 
+    </h1>
+    <p>Assalamu Alailum my name is Juanyed Fahad.I am, from dhaka.Mu batch is 20-4</p>
+    <h3>My haobbies are play football,cricket,travelling.And I also like to drive bikes</h3>
+ <ol> 
+         <li style ="color:blue">Dhaka</li>
+         <li style ="color:red">Khulna</li>
+         <li style ="color:Green">Rajshai</li>
+         <li style ="color:rgb(150,220,350)">Barishal</li>
+ </ol>
+
+<a href="https://www.facebook.com/"> </a>
+<img src ="c:\xampp\htdocs\aa\Web_Tech\facebook-icon-200x200.jpg"alt="logo"width="50"height="40">FACEBOOK
+</html>
